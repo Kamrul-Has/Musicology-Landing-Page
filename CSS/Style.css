@@ -1,0 +1,122 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Oswald', sans-serif;
+}
+nav{
+  background-color: #303030;
+}
+#search-btn{
+  background-color: #e8631c;
+}
+.hero-part{
+  background: url(../img/image.png) no-repeat center;
+  background-size: cover;
+  color: #fff;
+  padding: 200px 0px 20px;
+}
+#about{
+  background: url(../img/bimage.png);
+}
+.about-writing-part p{
+  
+}
+.card{
+  background-color: #303030;
+}
+#pricing{
+  background: url(../img/bimage-1.png) no-repeat center;
+  background-size: cover;
+}
+.service-writing-part p{
+  padding: 5px 350px;
+}
+.card-1{
+  background-color: #e8631c;
+  height: 420px;
+  border-radius: 5px;
+  width: 330px;
+}
+.card-1 img{
+  width: 100px; 
+}
+#amazing{
+  background: url(../img/bimage-2.png) no-repeat center;
+  background-size: cover;
+  color: #fff;
+}
+.col-6 img{
+  width: 600px; 
+  height: 700px;
+}
+
+.amazing-writing-part{
+  margin-top: 200PX;
+  padding: 10px 40px;
+}
+.amazing-writing-part h1{
+  font: 3em sans-serif;
+  font-weight: 600;
+}
+.dance{
+  background: url(../img/bimage-3.png) no-repeat center;
+  background-size: cover;
+}
+.dance-writing-part{
+  margin-top: 200PX;
+  padding: 10px 40px;
+}
+.dance-writing-part h1{
+  font: 3em sans-serif;
+  font-weight: 600;
+}
+#our{
+ background-color: #303030;
+
+}
+.our-writing-part p{
+ 
+}
+.our-box-part{
+  margin-top: 100px;
+}
+#herbert{
+  background: url(../img/image-6.png) no-repeat center;
+  background-size: cover;
+}
+.herbert-writing-part{
+  padding: 250px 0px;
+}
+.herbert-writing p{
+  padding: 5px 100px;
+  font: 2em sans-serif;
+  font-weight: 400;
+}
+.herbert-writing h1{
+  font: 4em sans-serif;
+  margin-top: 40px;
+  font-weight: 600;
+}
+#subscribe{
+  background: url(../img/bimage-4.png) no-repeat center;
+  background-size: cover;
+}
+.Your-Email{
+ 
+}
+.Your-Email input{
+  padding: 7px 80px;
+  border-radius: 5px;
+  
+}
+#footer{
+  background-color: #303030;
+}
+.Btn-foot i{
+  background: #fff;
+  border-radius: 10px;
+}
